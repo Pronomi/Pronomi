@@ -9,6 +9,8 @@
 <p align="left">
 <a href="https://dev.to/pronome" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pronome" height="30" width="40" /></a>
 <a href="https://instagram.com/@gomides_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gomides_" height="30" width="40" /></a>
+ <a href="https://discord.gg/pronome#9381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pronome#9381" height="30" width="40" /></a>
+</p> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
