@@ -2,7 +2,7 @@
 > about me
 ```
 
-<img align="left" src="https://i.pinimg.com/originals/f6/d2/e4/f6d2e4d12d3f596fe90eaae11d259f1e.gif" alt="Shizuku Hunter x Hunter" width="320" /> 
+<img align="left" src="https://i.pinimg.com/originals/f6/d2/e4/f6d2e4d12d3f596fe90eaae11d259f1e.gif" alt="Shizuku Hunter x Hunter" width="323" /> 
 
 ```csharp
 pronomi@github
